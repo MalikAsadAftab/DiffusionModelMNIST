@@ -18,3 +18,15 @@ diffusion_model.py: Defines the conditional U-Net architecture and related compo
 train.py: Contains the training loop and related functions.
 testing.py: Functions for testing and evaluating the model.
 requirements.txt: List of required libraries.
+
+
+---
+
+Feel free to reach out if you have any questions or need further assistance.
+
+Happy Coding!
+
+For further queries or help, don't hesitate to get in touch either via email: [asad.aftab@tuwien.ac.at](mailto:asad.aftab@tuwien.ac.at) or through [LinkedIn: Asad Aftab](https://www.linkedin.com/in/asad-aftab-malak/).
+
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:asad.aftab@tuwien.ac.at)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/asad-aftab-malak/)
